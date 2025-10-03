@@ -1,6 +1,6 @@
 # Greenway-health-projects-repo
 
-This repository contains of the github repository links and the website links of the projects that is mentioned in my resume.
+This repository contains github repository links and the website links of the projects that is mentioned in my resume.
 
 1. Home AI device control commands
   Repo link - https://github.com/amitkr069/LLM-based-Home-AI-Device-Control

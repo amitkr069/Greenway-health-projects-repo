@@ -4,9 +4,9 @@ This repository contains github repository links and the website links of the pr
 
 1. Home AI device control commands
    
-  Repo link - https://github.com/amitkr069/LLM-based-Home-AI-Device-Control
+   Repo link - https://github.com/amitkr069/LLM-based-Home-AI-Device-Control
   
-  website link - https://llm-based-home-ai-device-control-amit-kumar-mandal.streamlit.app/
+   website link - https://llm-based-home-ai-device-control-amit-kumar-mandal.streamlit.app/
 
 
 2. Skin Disease Detection
